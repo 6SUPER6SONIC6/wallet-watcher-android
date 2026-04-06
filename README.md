@@ -1,9 +1,7 @@
 
 # Wallet Watcher
 
-Wallet Watcher is an Android app for checking Ethereum* wallet balances and transaction history. Instantly view the number of tokens in any wallet, their value in USD, and the latest transactions. Save wallets for quick access and name them for better organization.
-
-*Support for additional blockchains is planned for [future updates](#-development-roadmap).**
+Wallet Watcher is an Android app for checking Ethereum wallet balances and transaction history. Instantly view the number of tokens in any wallet, their value in USD, and the latest transactions. Save wallets for quick access and name them for better organization.
 
 <div align="center">
   
@@ -58,23 +56,6 @@ Wallet Watcher is an Android app for checking Ethereum* wallet balances and tran
 **Wallet Watcher** fetches wallet balances and transaction history using the **[Ethplorer API](https://github.com/EverexIO/Ethplorer/wiki/ethplorer-api)**. 
 
 This API provides real-time data on Ethereum-based wallets, including token holdings, recent transactions, and token prices.
-
-## 📍 Development Roadmap
-
-✅ **Short-Term Goals:**  
-- Add a **QR Code scanner** for wallet addresses  
-- Implement **wallet tagging** for easier organization  
-- Improve **transaction details**
-
-🔜 **Mid-Term Goals:**  
-- **Multiple blockchain** support
-- Improve **UI/UX design** for a smoother experience
-- Implement **Wallet Sharing** - Generate shareable wallet snapshots
-- Introduce **Portfolio Insights** – Track total wallet value over time
-
-🎯 **Long-Term Goals:**  
-- Full **NFT integration** – Track NFTs in wallets
-- Implement **Balance & Transaction Alerts** – Get notified of new transactions and balance changes
 
 ## 📲 Download
 
